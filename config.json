@@ -1,0 +1,7 @@
+{
+    "model": "simple",
+    "algorithm": "knowledge_distillation_logits",
+    "data_augmentation": false,
+    "pretrained": false,
+    "pruning": true
+}
